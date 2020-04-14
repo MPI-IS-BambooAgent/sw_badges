@@ -10,7 +10,7 @@
     <g clip-path="url(#a)">
         <path fill="#555" d="M0 0 h37.0 v30 H0 z"/>
         <!-- Color goes here -->
-        <path fill="firebrick" d="M37.0 0 h60 v30 H37.0 z"/>
+        <path fill="darkgray" d="M37.0 0 h60 v30 H37.0 z"/>
         <path fill="url(#b)" d="M0 0 h97.0 v30 H0 z"/>
     </g>
 
@@ -26,7 +26,7 @@
         </textPath>
         <textPath xlink:href="#p2" startOffset="50%" text-anchor="middle" fill="#fff" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
             <!-- State goes here -->
-        failing
+        unknown
         </textPath>
     </text>
 </svg>
