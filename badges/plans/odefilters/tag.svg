@@ -10,7 +10,7 @@
     <g clip-path="url(#a)">
         <path fill="#555" d="M0 0 h37.0 v20 H0 z"/>
         <!-- Color goes here -->
-        <path fill="limegreen" d="M37.0 0 h60 v20 H37.0 z"/>
+        <path fill="#4c1" d="M37.0 0 h60 v20 H37.0 z"/>
         <path fill="url(#b)" d="M0 0 h97.0 v20 H0 z"/>
     </g>
 
