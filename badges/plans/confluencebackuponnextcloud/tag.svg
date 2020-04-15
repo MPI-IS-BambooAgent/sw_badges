@@ -15,8 +15,8 @@
     </g>
 
     <defs>
-        <path id="p1" d="M0 15 h37.0" fill="#ddd" stroke="#ddd"></path>
-        <path id="p2" d="M37.0 15 h60" fill="#ddd" stroke="#ddd"></path>
+        <path id="p1" d="M0 14 h37.0" fill="#ddd" stroke="#ddd" fill-opacity="1"></path>
+        <path id="p2" d="M37.0 14 h60" fill="#ddd" stroke="#ddd"></path>
     </defs>
 
     <text>
