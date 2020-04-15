@@ -14,19 +14,9 @@
         <path fill="url(#b)" d="M0 0 h97.0 v20 H0 z"/>
     </g>
 
-    <defs>
-        <path id="p1" d="M0 14 h37.0" fill="#ddd" stroke="#ddd" fill-opacity="1"></path>
-        <path id="p2" d="M37.0 14 h60" fill="#ddd" stroke="#ddd"></path>
-    </defs>
+    <!-- Name goes here -->
+    <text font-size="11" fill="#fff" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" text-anchor="middle" x="18.5" y="14">build</text>
+    <!-- State goes here -->
+    <text font-size="11" fill="#fff" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" text-anchor="middle" x="67.0" y="14">unknown</text>
 
-    <text>
-        <textPath xlink:href="#p1" startOffset="50%" text-anchor="middle" fill="#fff" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
-            <!-- Name goes here -->
-        build
-        </textPath>
-        <textPath xlink:href="#p2" startOffset="50%" text-anchor="middle" fill="#fff" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
-            <!-- State goes here -->
-        unknown
-        </textPath>
-    </text>
 </svg>
