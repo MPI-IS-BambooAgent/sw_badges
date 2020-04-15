@@ -20,11 +20,11 @@
     </defs>
 
     <text>
-        <textPath xlink:href="#p1" startOffset="50%" text-anchor="middle" fill-opacity=".3" fill="#fff" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
+        <textPath xlink:href="#p1" startOffset="50%" text-anchor="middle" fill="#fff" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
             <!-- Name goes here -->
         build
         </textPath>
-        <textPath xlink:href="#p2" startOffset="50%" text-anchor="middle" fill-opacity=".3" fill="#fff" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
+        <textPath xlink:href="#p2" startOffset="50%" text-anchor="middle" fill="#fff" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
             <!-- State goes here -->
         passing
         </textPath>
