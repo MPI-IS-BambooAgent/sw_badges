@@ -10,13 +10,13 @@
     <g clip-path="url(#a)">
         <path fill="#555" d="M0 0 h74.0 v20 H0 z"/>
         <!-- Color goes here -->
-        <path fill="darkgray" d="M74.0 0 h60 v20 H74.0 z"/>
+        <path fill="#4c1" d="M74.0 0 h60 v20 H74.0 z"/>
         <path fill="url(#b)" d="M0 0 h134.0 v20 H0 z"/>
     </g>
 
     <!-- Name goes here -->
     <text font-size="11" fill="#fff" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" text-anchor="middle" x="37.0" y="14">unit tests</text>
     <!-- State goes here -->
-    <text font-size="11" fill="#fff" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" text-anchor="middle" x="104.0" y="14">unknown</text>
+    <text font-size="11" fill="#fff" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" text-anchor="middle" x="104.0" y="14">passing</text>
 
 </svg>
