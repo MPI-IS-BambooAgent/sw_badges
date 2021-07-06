@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="82.2" height="20">
+    <linearGradient id="b" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+    <clipPath id="a">
+        <rect width="82.2" height="20" rx="3" fill="#fff"/>
+    </clipPath>
+    <g clip-path="url(#a)">
+        <path fill="#555" d="M0 0 h22.2 v20 H0 z"/>
+        <!-- Color goes here -->
+        <path fill="darkgray" d="M22.2 0 h60 v20 H22.2 z"/>
+        <path fill="url(#b)" d="M0 0 h82.2 v20 H0 z"/>
+    </g>
+
+    <!-- Name goes here -->
+    <text font-size="11" fill="#fff" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" text-anchor="middle" x="11.1" y="14">doc</text>
+    <!-- State goes here -->
+    <text font-size="11" fill="#fff" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" text-anchor="middle" x="52.2" y="14">unknown</text>
+
+</svg>
